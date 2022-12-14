@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspMVC", "AspMVC\AspMVC.csproj", "{469DE648-7B21-4058-A66A-7E0C9B681DB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiOauth", "ApiOauth\ApiOauth.csproj", "{216026D3-9CB7-49CD-82E5-1ED577F5D175}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{469DE648-7B21-4058-A66A-7E0C9B681DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{469DE648-7B21-4058-A66A-7E0C9B681DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{469DE648-7B21-4058-A66A-7E0C9B681DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{216026D3-9CB7-49CD-82E5-1ED577F5D175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216026D3-9CB7-49CD-82E5-1ED577F5D175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216026D3-9CB7-49CD-82E5-1ED577F5D175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216026D3-9CB7-49CD-82E5-1ED577F5D175}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
